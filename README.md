@@ -16,18 +16,23 @@ A similar process was then repeated in order to get the same information regardi
 ## Election-Audit Results
 
 * How many votes were cast in this congressional election?
+
 ![](Resources/Total_votes.PNG)
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
 ![](Resources/county_vote_breakdown.PNG)
 
 * Which county had the largest number of votes?
+
 ![](Resources/largest_votes.PNG)
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 ![](Resources/election_results.csv)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 ![](Resources/Election_winner.PNG)
 
 ## Election-Audit Summary
